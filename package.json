@@ -9,6 +9,7 @@
   "author": "pavit",
   "license": "ISC",
   "dependencies": {
+    "axios": "^1.6.8",
     "node-fetch": "^3.3.2"
   },
   "type": "module"
