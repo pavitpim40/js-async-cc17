@@ -22,3 +22,6 @@ async function getAllTodo() {
   }
 }
 getAllTodo();
+
+// GET,DELETE - USER
+// PATCH,POST - USER
